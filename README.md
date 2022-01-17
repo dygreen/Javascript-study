@@ -1,2 +1,2 @@
 # Javascript-study
-2021.12 study start!
+21.12 STUDY START!

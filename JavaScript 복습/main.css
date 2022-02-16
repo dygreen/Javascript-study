@@ -1,0 +1,15 @@
+.yellow-bg {
+  background: yellow;
+}
+
+.alert-box {
+  background: #b6b6ff;
+  color: #090992;
+  padding: 20px;
+  border-radius: 5px;
+  display: none;
+}
+
+.alert-box p {
+  display: inline;
+}
